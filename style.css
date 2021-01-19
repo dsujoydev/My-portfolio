@@ -1,0 +1,43 @@
+body {
+  font-family: "Fraunces", serif;
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.name-highlight {
+  color: orangered;
+}
+
+.fst-half {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.fst-half img {
+  width: 80%;
+}
+
+.top-banner {
+  background-image: url(images/top-banner.png);
+  float: left;
+  background-repeat: no-repeat;
+}
+
+.section {
+  height: 200px;
+}
+
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient (45deg, aqua, lightblue);
+  padding: 10px 20px;
+  background-color: aqua;
+  color: antiquewhite;
+  border-radius: 5px;
+}
